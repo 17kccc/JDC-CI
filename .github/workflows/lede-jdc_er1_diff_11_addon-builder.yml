@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: lede builder
+name: lede jdc_er1 11_addon builder
 
 on:
   repository_dispatch:
