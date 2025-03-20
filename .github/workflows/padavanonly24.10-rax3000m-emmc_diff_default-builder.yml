@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: lede jdc_er1 default builder
+name: padavanonly24.10-rax3000m-emmc_diff_default-builder
 
 on:
   repository_dispatch:
