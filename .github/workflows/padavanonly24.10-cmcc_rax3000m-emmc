@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: lede jdc_ax1800_pro 11_addon builder
+name: padavanonly24.10-cmcc_rax3000m-emmc
 
 on:
   repository_dispatch:
@@ -20,7 +20,7 @@ env:
   REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-24.10
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: jdc_ax1800_pro_diff_11_addon
+  CONFIG_FILE: padavanonly24.10-cmcc_rax3000m-emmc
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: true
